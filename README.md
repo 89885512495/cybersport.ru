@@ -1,2 +1,2 @@
 # cybersport.ru
-cybersport.ru scraper 
+cybersport.ru web - scraper (shows only last news and dota 2 match) 
